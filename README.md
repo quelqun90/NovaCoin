@@ -4,7 +4,9 @@ La meilleur cryptomonnaie de Nova-Life !
 
 Faites /NovaCoin pour accéder au panel !
 
-Toute les 1h le prix du NovaCoin est changée si il y'a eu des achats/vente
+Toute les 1h le prix du NovaCoin est changée si il y'a eu des achats/ventes
+
+Même principe qu'une crypto IRL mais sur Nova !
 
 👨‍💻 Installation:
 
