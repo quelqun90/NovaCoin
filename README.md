@@ -1,6 +1,6 @@
 📗 NovaCoin 1.0
 
-La 1 ère cryptomonnaie de Nova-Life !
+La meilleur cryptomonnaie de Nova-Life !
 
 Faites /NovaCoin pour accéder au panel !
 
