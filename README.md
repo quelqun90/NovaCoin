@@ -21,9 +21,9 @@ Accedez à votre SFTP et chercher le fichier "novacoinConfig.json".
 Exemple du dossier json:
 
 {
-    "InitialPrice": 100.0,
-    "PriceChangeFactor": 5.0,
-    "CurrentPrice": 100.0
+        "InitialPrice": 100.0,
+        "PriceChangeFactor": 5.0,
+        "CurrentPrice": 100.0
 }
 
      "InitialPrice" = Le prix de base de 1 NovaCoin
